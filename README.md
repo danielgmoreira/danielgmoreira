@@ -2,31 +2,27 @@
 
  
 
-## I'm Daniel Moreira!
+## I'm Daniel Moreira
 
  
 
-:computer: I'm Full-Stack Developer!
+:computer: Full-Stack Developer
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: From Brazil
 
-:books: I’m currently learning everything.
+:books: Currently learning everything about technology
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2021 Goals: create a few projects and find a new job
 
  
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielgmoreira)](https://github.com/danielgmoreira)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielgmoreira)](https://github.com/danielgmoreira)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielgmoreira/)](https://www.linkedin.com/in/danielgmoreira/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielgmoreira/)](https://www.linkedin.com/in/danielgmoreira/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgmoreira)](https://github.com/danielgmoreira/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgmoreira&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgmoreira&theme=dracula)
 
 
 
 
-- Thanks for visiting.
-
-- Enjoy it!! o/
+- Thanks for visiting
