@@ -22,8 +22,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielgmoreira/)](https://www.linkedin.com/in/danielgmoreira/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgmoreira&layout=compact&langs_count=4)](https://github.com/danielgmoreira/github-readme-stats)
-)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgmoreira)](https://github.com/danielgmoreira/github-readme-stats)
 
 
 
