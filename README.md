@@ -1,8 +1,8 @@
-# Welcome!
+# Welcome! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
  
 
-## I'm Daniel Moreira
+## I'm Daniel Moreira ⚡
 
  
 
@@ -18,9 +18,14 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielgmoreira)](https://github.com/danielgmoreira)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielgmoreira/)](https://www.linkedin.com/in/danielgmoreira/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/danielgmoreira)](https://github.com/danielgmoreira)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/danielgmoreira/)](https://www.linkedin.com/in/danielgmoreira/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/danielgmoreira_)](https://twitter.com/danielgmoreira_)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgmoreira&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgmoreira&theme=dracula)
+<div>
+  <a href="https://github.com/danielgmoreira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielgmoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgmoreira&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 ![Snake animation](https://github.com/danielgmoreira/danielgmoreira/blob/output/github-contribution-grid-snake.svg)
 
