@@ -23,8 +23,8 @@
 
 <div>
   <a href="https://github.com/danielgmoreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielgmoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgmoreira&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielgmoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgmoreira&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ![Snake animation](https://github.com/danielgmoreira/danielgmoreira/blob/output/github-contribution-grid-snake.svg)
