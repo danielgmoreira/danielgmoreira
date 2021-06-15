@@ -2,7 +2,7 @@
 
  
 
-## I'm Daniel Moreira ⚡
+## I'm Daniel ⚡
 
  
 
