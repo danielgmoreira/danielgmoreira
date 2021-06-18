@@ -1,7 +1,7 @@
 # Daniel Godoy Moreira <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/danielgmoreira)](https://github.com/danielgmoreira)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/danielgmoreira/)](https://www.linkedin.com/in/danielgmoreira/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/danielgmoreira_)](https://twitter.com/danielgmoreira_)[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/danielgmoreira_)](https://instagram.com/danielgmoreira_)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/danielgmoreira)](https://github.com/danielgmoreira) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/danielgmoreira/)](https://www.linkedin.com/in/danielgmoreira/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/danielgmoreira_)](https://twitter.com/danielgmoreira_) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/danielgmoreira_)](https://instagram.com/danielgmoreira_)
 
 ## Sobre mim
 - 💻 Estudante iniciante na área de programação, interessado principalmente em React e Node. 
