@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/danielgmoreira_)](https://twitter.com/danielgmoreira_) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/danielgmoreira_)](https://instagram.com/danielgmoreira_)
 
 ## Sobre mim:
-- 💻 Estudante iniciante na área de programação, interessado principalmente em React e Node. 
+- 💻 Desenvolvedor Web. 
 
 - 📚 Atualmente cursando Ciência e Técnologia na Universidade Federal do ABC.
 
